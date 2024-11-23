@@ -1,0 +1,12 @@
+.sideBarHover:hover {
+    border-left: 2px #0dcaf0 solid;
+    padding-left: 20px;
+}
+
+.sideBarColor{
+background-color: #573280;
+}
+
+.sideBarTextColor{
+    color: #cecfc7;
+}
